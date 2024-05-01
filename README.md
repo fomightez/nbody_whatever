@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/nbody_whatever/HEAD?labpath=example_usage.ipynb)
+
 # nbody_hatever
 
 ![Example](example.gif)
