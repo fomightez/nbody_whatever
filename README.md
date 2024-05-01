@@ -1,5 +1,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/nbody_whatever/HEAD?labpath=example_usage.ipynb)
 
+from https://twitter.com/PeRossello/status/1785764670562848999
+
 # nbody_hatever
 
 ![Example](example.gif)
